@@ -1,8 +1,6 @@
-Olá eu sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Eu+sou+o+Gustavo+Prado,+desenvolvedor+fullstack+e+estudante+de+engenharia+de+software.)](https://git.io/typing-svg)<br>
 
 ---
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem-vindo+ao+meu+Perfil!!)](https://git.io/typing-svg)<br>
 
 ### Atualmente estou trabalhando principalmente com:
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
