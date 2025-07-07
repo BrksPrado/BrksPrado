@@ -1,4 +1,4 @@
-## Olá! eu sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software.
+Olá eu sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software.
 
 ---
 
