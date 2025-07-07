@@ -2,7 +2,6 @@
 
 ---
 ![Gustavo Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=brksprado&show_icons=true&theme=radical)
-### Atualmente estou trabalhando principalmente com:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>&nbsp;&nbsp;&nbsp;
