@@ -1,5 +1,8 @@
-Oiii, eu sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software!
+## Eu sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software.
 
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem-vindo+ao+meu+Perfil!!)](https://git.io/typing-svg)<br>
+### Atualmente estou trabalhando principalmente com:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>&nbsp;&nbsp;&nbsp;
@@ -8,6 +11,8 @@ Oiii, eu sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenha
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
 </p>
+
+---
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavopradoriol@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-prado-57506a26b/)
