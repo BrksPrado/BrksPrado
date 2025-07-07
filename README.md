@@ -1,4 +1,4 @@
-Eu sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software.
+## Eu sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software.
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem-vindo+ao+meu+Perfil!!)](https://git.io/typing-svg)<br>
