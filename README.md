@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Eu+sou+o+Gustavo+Prado,+desenvolvedor+fullstack+e+estudante+de+engenharia+de+software.)](https://git.io/typing-svg)<br>
+Eu sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software.
 
 ---
 
