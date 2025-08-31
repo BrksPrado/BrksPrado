@@ -1,6 +1,8 @@
 ## Sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software.
 
-![Snake animation](https://github.com/brksprado/brksprado/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=brksprado&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true"/>
+</div>
 
 ---
 
