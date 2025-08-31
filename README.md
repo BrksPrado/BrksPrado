@@ -20,8 +20,6 @@
 
 ---
 
-### Estatísticas:
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=brksprado&theme=radical)
 
 ---
