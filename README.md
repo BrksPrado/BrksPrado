@@ -1,10 +1,8 @@
 ## Sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software.
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brksprado&theme=discord"/>
-  
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brksprado&theme=discord"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brksprado&theme=discord"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brksprado&show_icons=true&theme=discord&hide_border=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brksprado&layout=compact&theme=discord&hide_border=true"/>
 </div>
 
 ---
