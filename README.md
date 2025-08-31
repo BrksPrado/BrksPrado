@@ -19,7 +19,7 @@
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brksprado&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=brksprado&theme=radical)
 
 ---
 
