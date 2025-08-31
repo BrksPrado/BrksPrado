@@ -1,6 +1,6 @@
 ## Sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software.
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=brksprado&theme=radical)
+![Snake animation](https://github.com/brksprado/brksprado/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
