@@ -1,8 +1,8 @@
 ## Sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software.
 
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=brksprado&theme=radical)
 
-### Tecnologias que utilizo:
+---
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
@@ -16,10 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
 </p>
-
----
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=brksprado&theme=radical)
 
 ---
 
