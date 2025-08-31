@@ -1,6 +1,8 @@
 ## Sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brksprado&theme=radical)
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brksprado&theme=github_dark"/>
+</div>
 
 ---
 
