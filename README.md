@@ -11,7 +11,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://quarkus.io/assets/images/quarkus_icon_rgb_reverse.svg" height="40" alt="Quarkus"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="Neo4j"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>&nbsp;&nbsp;&nbsp;
@@ -20,7 +19,7 @@
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=brksprado&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=brksprado&theme=radical)
 
 ---
 
