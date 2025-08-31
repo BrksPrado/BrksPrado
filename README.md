@@ -1,4 +1,4 @@
-## Eu sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software.
+## Sou o **Gustavo Prado**, desenvolvedor fullstack e estudante de engenharia de software.
 
 ---
 ![Gustavo Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=brksprado&show_icons=true&theme=radical)
