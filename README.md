@@ -22,9 +22,7 @@
 
 ### Estatísticas:
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brksprado&layout=compact&langs_count=7&theme=radical"/>
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=brksprado&theme=radical)
 
 ---
 
