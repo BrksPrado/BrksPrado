@@ -19,7 +19,7 @@
 
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=brksprado&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brksprado&theme=radical)
 
 ---
 
