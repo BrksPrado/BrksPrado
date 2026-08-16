@@ -1,6 +1,6 @@
 ### 22 years old Back-end Developer.
 ### Software Engineering Student.
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ### Currently working with
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](#)
