@@ -1,4 +1,4 @@
-### 22 years old Back-end Developer.
+### 22 years old Full-Stack Developer.
 ### Software Engineering Student.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
