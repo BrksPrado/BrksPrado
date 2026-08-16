@@ -1,8 +1,8 @@
-### 22 years old Full-Stack Developer.
-### Software Engineering Student.
+### 22 anos, Desenvolvedor Full-Stack.
+### Estudante de Engenharia de Software.
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
-### Currently working with
+### Trabalhando atualmente com
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](#)
 [![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white)](#)
 [![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](#)
